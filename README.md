@@ -1,16 +1,33 @@
-## Hi there 👋
+# Andranik Arakelyan
 
-<!--
-**andranikarakelyan/andranikarakelyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Developer | TypeScript | Node.js | React | NestJS
 
-Here are some ideas to get you started:
+Hello! I'm a dedicated Full-Stack Developer with expertise in building robust, scalable applications using modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- [**ToolsZone.net**](https://www.toolszone.net/) - A comprehensive web platform offering free, browser-based utility tools with a clean, ad-free interface
+- [**Language Learning Tools (LLT)**](#) - A language learning platform with microservices architecture to help users learn languages through customizable tools
+
+### 💻 Tech Stack
+- **Backend**: Node.js, TypeScript, NestJS, Express, PostgreSQL, MongoDB, GraphQL
+- **Frontend**: React, Next.js, JavaScript, HTML/CSS, Tailwind CSS
+- **DevOps**: Docker, AWS, CI/CD, Linux
+- **Tools**: Git, Vim
+
+### 🌱 Experience
+I've worked on various projects including:
+- **Blast TV** - A gaming platform focused on eSports tournaments
+- **Hexowatch & Hexometer** - Website monitoring platforms
+- **The Moon** - Smart home system with IoT integration
+
+### 📫 How to Reach Me
+- Email: [andranik.arakelyan.me@gmail.com](mailto:andranik.arakelyan.me@gmail.com)
+- LinkedIn: [Andranik Arakelyan](https://linkedin.com/in/andranik-arakelyan-545089175)
+- Telegram: [@andranik_arakelyan](https://t.me/andranik_arakelyan)
+
+### 📚 Languages
+- Armenian (Native)
+- English (Professional)
+- Russian (Professional)
+
+Feel free to explore my repositories and don't hesitate to contact me for collaborations or questions!
